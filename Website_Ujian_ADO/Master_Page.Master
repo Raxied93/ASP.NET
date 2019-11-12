@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master_Page.master.cs" Inherits="Website_Ujian_ADO.Master_Page" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server">
+        </asp:ContentPlaceHolder>    
+    </title>
+    <link href="Tambahan/Modify.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="formMaster" runat="server">
+    <div class="wrapper"> 
+        
+        <!-- Menu Navbar -->
+        <div class="menu">
+            <ul> 
+                <li class="navigation_first_item"><a href="IT_Revolution_List.aspx"> Collection IT Revolution </a></li>
+                <li class="navigation_bookmart"><a href="Member's_Profile.aspx"> Member's Profile </a></li>
+            </ul>
+        </div>
+
+        <div class="clear"> </div>
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentBody" runat="server">
+                        
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="clear"> </div>
+
+        <!-- Bagian Footer -->
+        <div class="footer"> <p> Copyright &copy; 2019 <br /> 
+        Created by : <b><i> Yusril Rahman </i></b></p> </div>
+
+        </div>
+    </form>
+</body>
+</html>

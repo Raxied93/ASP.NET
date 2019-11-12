@@ -1,0 +1,4 @@
+c:\users\yusri\documents\visual studio 2010\Projects\Website_Ujian_ADO\Website_Ujian_ADO\bin\Website_Ujian_ADO.dll
+c:\users\yusri\documents\visual studio 2010\Projects\Website_Ujian_ADO\Website_Ujian_ADO\bin\Website_Ujian_ADO.pdb
+c:\users\yusri\documents\visual studio 2010\Projects\Website_Ujian_ADO\Website_Ujian_ADO\obj\Debug\Website_Ujian_ADO.dll
+c:\users\yusri\documents\visual studio 2010\Projects\Website_Ujian_ADO\Website_Ujian_ADO\obj\Debug\Website_Ujian_ADO.pdb

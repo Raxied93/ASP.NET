@@ -1,0 +1,148 @@
+﻿dl, dt, dd, ul, ol, h1, h4, h5, h6, form, pre, fielset, block,ul,li 
+{
+    padding: 0;
+    margin: 0 5px 5px 0px;
+    background-color: Silver;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+h2, h3
+{
+    color:Navy;
+}
+   
+/* Bagian Body */
+body
+{ 
+    background-color: Silver;
+    font-family : Sans-Serif;
+    font-size : 12px;
+    width: auto;
+}
+
+/* Bagian Page */
+.warpper
+{
+    width: 95px;
+    margin: auto;
+}
+
+/* Bagian Home Page */
+.content
+{
+    width: 100%;
+    background-color: #669999;
+    border: 1px solid Black;
+    padding: 5px 5px 5px 5px;
+    float: left;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    min-height: 400px; 
+}
+
+/* Bagian Menu */
+.menu 
+{
+    background-color: Gray;
+    width: 100%;
+    margin: 0px 0px 10px;
+    padding: 0px;
+    height: 40px;
+    color: #FFCC00;
+    padding: 5px 5px 5px 5px;
+}
+
+/*
+.navigation_first_item
+{
+    border-left: 0px;
+    -moz-border-radius: 5px 0px 0px 5px;
+    -webkit-border-radius: 5px 0px 0px 5px;
+    padding: 5px 0px 0px 5px;
+}
+*/
+
+.navitem_s
+{
+    float: left;
+    border-right: 1px solid Silver;
+    border-right: 1px solid Silver;
+    height: 40px;
+    background-color: Blue;
+}
+ 
+.menu ul
+{
+}
+ 
+.menu ul li 
+{
+    float: left;
+    display: block;
+    list-style: none;
+    border-right: 1px solid Silver;
+    border-left: 1px solid Silver;
+}
+
+.menu ul li.navigation_first_item:hover 
+{
+    padding: 5px 0px 0px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+}
+
+.menu ul li.navigation_bookmart:hover 
+{
+    padding: 5px 0px 0px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+}
+
+.menu ul li.navigation_SiteMap:hover 
+{
+    padding: 5px 0px 0px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+}
+
+.menu ul li.navigation_term:hover 
+{
+    padding: 5px 0px 0px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+}
+
+.menu ul li a
+{
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 40px;
+    padding: 8px 20px;
+    color: Navy;
+    text-decoration: none;
+}
+
+.menu ul li:hover
+{
+    background-color: Red;
+    border-right: 1px solid Black;
+    border-left: 1px solid Black;
+    border-top: 1px solid Black;
+    border-bottom: 1px solid Black;
+}
+              
+.clear
+{
+    clear: both;
+}
+
+/* Footer */
+.footer p
+{
+    background-color: Gray;
+    padding: 15px;
+    text-align: center;
+}
+
+.Table_SM
+{   
+    margin-left: 50px;
+    background-color: transparent;
+}
