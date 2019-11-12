@@ -1,0 +1,4 @@
+C:\Users\yusri\documents\visual studio 2010\Projects\Matrix_Mall\Matrix_Mall\bin\Matrix_Mall.dll
+C:\Users\yusri\documents\visual studio 2010\Projects\Matrix_Mall\Matrix_Mall\bin\Matrix_Mall.pdb
+C:\Users\yusri\documents\visual studio 2010\Projects\Matrix_Mall\Matrix_Mall\obj\Debug\Matrix_Mall.dll
+C:\Users\yusri\documents\visual studio 2010\Projects\Matrix_Mall\Matrix_Mall\obj\Debug\Matrix_Mall.pdb

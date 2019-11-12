@@ -1,0 +1,52 @@
+﻿    body
+    {
+        background:#ccc;
+    }
+     
+    /* 
+    .gambar
+    {
+        padding: 0px;
+        margin: 0px auto 0px 500px;
+    }
+    */       
+
+    .formClass
+    {
+        padding: 20px;
+        margin: 0px auto;
+        background: Lavender;
+        width: 230px;
+    }
+
+    .Content
+    {
+        padding: 20px;
+        margin: 0px auto;
+        background: Lavender;
+        width: 300px;
+    }
+    
+    .regist
+    {
+        padding: 20px;
+        margin: 0px auto;
+        background: Lavender;
+        width: 500px;
+    }
+        
+    h3
+    {
+        text-align: center;
+    }
+            
+    .input
+    {
+        text-align:center;
+        padding: 2px;
+    }
+    
+    .button
+    {
+        padding: 2px;
+    }
